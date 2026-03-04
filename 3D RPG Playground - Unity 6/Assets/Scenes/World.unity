@@ -26717,7 +26717,7 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: 2384e56236ae84340967b802cbad6bd8, type: 2}
-      - {fileID: 11400000, guid: b6017ea2e1eea3843b8b76fd557ff7f5, type: 2}
+      - {fileID: 11400000, guid: d903861fad06e864a9a3d81da5b5aa5d, type: 2}
     encrypted: 0
     stringData: 
 --- !u!4 &1410195715
@@ -33177,7 +33177,7 @@ Transform:
   m_GameObject: {fileID: 1749195328}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 78.42069, y: 7.500456, z: 350.84045}
+  m_LocalPosition: {x: 74.7, y: 7.95, z: 207.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

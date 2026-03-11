@@ -35,4 +35,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dungeon/Dungeon Battle Arena.unity
     guid: 89f53162a4204d645b441e1310e54735
+  - enabled: 1
+    path: Assets/Scenes/FTUE Scenes/WorldForFTUE.unity
+    guid: 841e41bfeba28094ead7e70efd1fd4f2
+  - enabled: 1
+    path: Assets/Scenes/FTUE Scenes/DungeonEnd.unity
+    guid: 84fbb9129c32e2c4c9194de5cdb5f8dd
+  - enabled: 1
+    path: Assets/Scenes/FTUE Scenes/DungeonStart.unity
+    guid: 58f169a1bed8b5348a9d749fcb878311
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

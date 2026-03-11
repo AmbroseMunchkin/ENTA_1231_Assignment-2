@@ -10431,7 +10431,7 @@ GameObject:
   - component: {fileID: 645401923}
   - component: {fileID: 645401922}
   m_Layer: 2
-  m_Name: Battle 0 (1)
+  m_Name: Battle 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26779,36 +26779,6 @@ MonoBehaviour:
 
       </0>
 
-      <1 type="1"
-      >
-
-      <_bool isValid="True" questActive="True" />
-
-      <task>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
-
-      </_string>
-
-      <settings>
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
-
-      </_string>
-
-      <_asset
-      asset="2" />
-
-      </settings>
-
-      </task>
-
-      </1>
-
       </taskStatus>
 
       </_subarrays>
@@ -26835,8 +26805,7 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: e723e1d1b7375d64498cc4baad47b928, type: 2}
-      - {fileID: 11400000, guid: cea940e8b276c0e45a9a087101880081, type: 2}
-      - {fileID: 11400000, guid: 480470da4a5c2064ca61a90b0ae95962, type: 2}
+      - {fileID: 11400000, guid: 1cf154ba5acc4b149850e8c49e0e4673, type: 2}
     encrypted: 0
     stringData: 
 --- !u!114 &1603327612
@@ -28738,7 +28707,7 @@ MonoBehaviour:
 '
     lookUp:
       assets:
-      - {fileID: 11400000, guid: 818ab7e52136e88498a0ffb6aca2602d, type: 2}
+      - {fileID: 11400000, guid: ef01ee651d9f23648b7c096ae745858e, type: 2}
     encrypted: 0
     stringData: 
   actor:
@@ -28884,36 +28853,6 @@ MonoBehaviour:
 
       </0>
 
-      <1 type="1"
-      >
-
-      <_bool isValid="True" questActive="True" />
-
-      <task>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
-
-      </_string>
-
-      <settings>
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
-
-      </_string>
-
-      <_asset
-      asset="2" />
-
-      </settings>
-
-      </task>
-
-      </1>
-
       </taskStatus>
 
       </_subarrays>
@@ -28940,8 +28879,7 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: e723e1d1b7375d64498cc4baad47b928, type: 2}
-      - {fileID: 11400000, guid: cea940e8b276c0e45a9a087101880081, type: 2}
-      - {fileID: 11400000, guid: 480470da4a5c2064ca61a90b0ae95962, type: 2}
+      - {fileID: 11400000, guid: 771a460552e693649a979149d323b23c, type: 2}
     encrypted: 0
     stringData: 
 --- !u!114 &1843391294

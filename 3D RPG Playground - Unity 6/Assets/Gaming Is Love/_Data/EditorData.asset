@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 2
-  subSection: 13
-  tabIndex: 12
-  scrollY: 2380
+  section: 9
+  subSection: 0
+  tabIndex: -1
+  scrollY: 0
   foldoutLimit: 
   helpDrag: 124
   subSectionDrag: 250
@@ -36,6 +36,8 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 900c85aba3fc8524a87756ad754eeab0, type: 2}
+  - {fileID: 11400000, guid: b2825c7aca5dbb94e8b0a589a6d4e94c, type: 2}
   - {fileID: 11400000, guid: ef01ee651d9f23648b7c096ae745858e, type: 2}
   - {fileID: 11400000, guid: 818ab7e52136e88498a0ffb6aca2602d, type: 2}
   - {fileID: 11400000, guid: 4f2b24878e6972246a81cf02882d8af3, type: 2}
@@ -54,8 +56,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: df2a5fa32e416de4da6ca624efadc7ea, type: 2}
   - {fileID: 11400000, guid: a7b1448fdccb61249951dc77d89c17ff, type: 2}
   - {fileID: 11400000, guid: 324de2a08295a5a4f8ff25fa2acb8127, type: 2}
-  - {fileID: 11400000, guid: 8a7674f4ecd4cca45bd0509fd52c4ca8, type: 2}
-  - {fileID: 11400000, guid: 678e93c07aa929a41ae8342b0a25924a, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
